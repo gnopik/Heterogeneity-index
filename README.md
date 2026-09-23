@@ -1,4 +1,4 @@
-# Heterogeneity indices: supporting material
+# Heterogeneity index: supporting material
 
 Supporting code and reproducibility material for the paper **“Beyond Global Importance: A Heterogeneity Index for Sensitivity Analysis.”**
 
