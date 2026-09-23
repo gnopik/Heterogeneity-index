@@ -6,7 +6,7 @@ The notebooks reproduce the numerical experiments and figures reported in the pa
 
 ## Contents
 
-- **`01_global_sensitivity_vs_heterogeneity.ipynb`**  
+- **`01_heterogeneity_vs_global_sensitivity.ipynb`**  
   Comparison of conventional global sensitivity indices \(S_i\) with input-conditioned heterogeneity indices \(H_{X_i}\).
 
 - **`02_raw_vs_normilized.ipynb`**  
